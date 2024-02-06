@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sopkeyn
-- 👀 I’m interested in COOKING
-- 🌱 I’m currently and still learning about Mechatronics and more
+- 👀 I’m interested in COOKING 
+- 🌱 3rd year stunner of Mechatronics Engineering
 - 💞️ I’m looking to collaborate on many projects that is related to my course
 - 📫 How to reach me ... email: 21-09929@g.batstate-u.edu.ph
 - 😄 Pronouns: ... she/her
