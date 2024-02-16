@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @sopkeyn
 - 🌱 3rd year stunner of Mechatronics Engineering
 - 😄 Pronouns: ... she/her
-- ⚡ Fun fact: ... Soon to be an Engineer
+- ⚡ Fun fact: ... 
+- ✨ 
 
 <!---
 sopkeyn/sopkeyn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
