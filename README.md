@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sopkeyn
 - 🌱 3rd year stunner of Mechatronics Engineering
-- 😄 Pronouns: ... she/her
+- 😄 I'm urrebtly learning *Robotics 2*
 - ⚡ Fun fact: ... I LOVE TO SPEND TIME BY MYSELF
 - ✨ Soon to be Engineer
 
