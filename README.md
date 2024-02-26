@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sopkeyn
 - 🌱 3rd year stunner of Mechatronics Engineering
 - 😄 I'm urrebtly learning *Robotics 2*
-- ⚡ Fun fact: ... I LOVE TO SPEND TIME BY MYSELF
+- ⚡ All of my projects are in https://github.com/sopkeyn
 - ✨ Soon to be Engineer
 
 <!---
