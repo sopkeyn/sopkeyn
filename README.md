@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sopkeyn
-- 🌱 3rd year stunner of *Mechatronics Engineering*
-- 😄 *Robotics 2* and *Control Systems Engineering*
+- 🌱 4th year stunner of *Mechatronics Engineering*
+- 😄 *Electives 2*
 - ⚡ All of my projects are in https://github.com/sopkeyn
-- ✨ Soon to be "Engineer"
+
 
 <!---
 sopkeyn/sopkeyn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
